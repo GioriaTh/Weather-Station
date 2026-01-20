@@ -19,7 +19,7 @@ def main():
 
     drive = GoogleDriveUploader()
     json_uploader = JSONUploader(
-        endpoint_url="http://gioria.netsire.gr/db_costa.php"
+        endpoint_url=""
     )
 
     # --- NEW: Initialize tracking variables ---
