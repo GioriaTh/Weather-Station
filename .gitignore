@@ -1,0 +1,23 @@
+# Secrets
+secrets.h
+config.php
+.env
+
+# Logs written by db_sensor_data.php
+debug_log.txt
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+.venv/
